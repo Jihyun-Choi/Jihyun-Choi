@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Django and TDD
 - 💬 I am going to study react and REST.
 - 📫 How to reach me: Contact me by email! hyun4025ji@kroea.ac.kr 
-- ⚡ Fun fact: Coding in front of a cafe window with a blue sky
+- ⚡ Fun fact: Coding in front of a cafe window with a blue sky  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun-Choi&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihyun-Choi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
