@@ -1,5 +1,5 @@
 ## Hi! I'm Jihyun Choi 👋
-  I am a student studying computer convergence software at Korea University University, South Korea.
+  I am a student studying computer convergence software at Korea University since 2020.
 
 - 🔭 I’m currently working on LKLK, recruitment website for startup and project.
 - 🌱 I’m currently learning Django and TDD
