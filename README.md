@@ -2,10 +2,10 @@
   I am a student studying computer convergence software at Korea University since 2020.
 
 - 🔭 I’m currently working on LKLK, recruitment website for startup and project.
-- 🌱 I’m currently learning Django and TDD
-- 💬 I am going to study react and REST.
+- 🌱 I’m currently learning React and majoring in CS.
+- 💬 I am contemplating the field and want to study AI.
 - 📫 How to reach me: Contact me by email! hyun4025ji@kroea.ac.kr 
-- ⚡ Fun fact: Coding in front of a cafe window with a blue sky  
+- ⚡ Fun fact: Coding in front of a cafe window with a blue sky 🏄
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun-Choi&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihyun-Choi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
