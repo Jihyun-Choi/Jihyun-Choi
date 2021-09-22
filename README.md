@@ -2,7 +2,7 @@
   I am a student studying computer convergence software at Korea University since 2020.
 
 - 🔭 I’m currently working on LKLK, recruitment website for startup and project.
-- 🌱 I’m currently learning React and majoring in CS.
+- 🌱 I’m currently learning React and CS.
 - 💬 I am contemplating the field and want to study AI.
 - 📫 How to reach me: Contact me by email! hyun4025ji@kroea.ac.kr 
 - ⚡ Fun fact: Coding in front of a cafe window with a blue sky 🏄
