@@ -1,7 +1,7 @@
 ## Hi! I'm Jihyun Choi 👋
   I am a student studying computer convergence software at Korea University since 2020.
 
-- 🔭 I’m currently working on CafeInArt, connecting artists and cafes for exhibitions.
+- 🔭 I’m currently working on Whiteboard, Academic Management Database Project.
 - 🌱 I’m currently learning React and CS.
 - 💬 I am contemplating the field and want to study AI.
 - 📫 How to reach me: Contact me by email! hyun4025ji@kroea.ac.kr 
