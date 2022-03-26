@@ -19,7 +19,7 @@
 | 2021.7.8 ~ 2021.8.11 | [LKLK](https://github.com/Jihyun-Choi/LKLK) | Recruit platform for side projects | Backend |
 | 2021.9.23 ~ 2021.9.27 | [CafeInArt](https://github.com/Jihyun-Choi/CafeInArt)  | Social Problem Solving Idea Contest Award | Backend & Tech Leader |
 | 2021.11.26 ~ 2021.12.5 | [Whiteboard](https://github.com/Jihyun-Choi/Whiteboard) | Academic Management Project for Database Practice | Backend & Frontend |
-| 2022.1.1 ~ Now | [IPARK](https://github.com/Jihyun-Choi/IPARK) | campus gym access management web server administrator | Backend |
+| 2022.1.1 ~ Now | [IPARK](https://github.com/Jihyun-Choi/IPARK) | [campus gym access management web server administrator](https://play.google.com/store/apps/details?id=com.ipark_ku) | Backend |
 | 2022.1.21 ~ Now | [TTL](https://github.com/today-they-learned)  | [Collect TIL in one place](https://todaytheylearn.com) | Backend |
 
  
