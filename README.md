@@ -1,8 +1,6 @@
-# Jihyun Choi 👋     
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihyun-choi-0317/)](https://www.linkedin.com/in/jihyun-choi-0317/)
+# Jihyun Choi 👋     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihyun-choi-0317/)](https://www.linkedin.com/in/jihyun-choi-0317/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=https://#.tistory.com/)](#)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={p0sitive})](https://solved.ac/{p0sitive})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={p0sitive})](https://solved.ac/{p0sitive})
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihyun-Choi&count_bg=%236FA4EE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p>
