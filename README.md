@@ -26,7 +26,7 @@
 
  
 ## Contact 📫
-* Email: hyun4025ji@kroea.ac.kr
+* Email: hyun4025ji@korea.ac.kr
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun-Choi&count_private=true&show_icons=true) 
