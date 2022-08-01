@@ -24,10 +24,6 @@
 | 2022.1.21 ~ 2022.5.20 | [TTL](https://github.com/today-they-learned)  | [Collect TIL in one place](https://todaytheylearn.com) | Backend |
 | 2022.5.20 ~ 2022.6.22 | [KUsuk](https://github.com/Jihyun-Choi/KUsuk)  | Real-time seat reservation application | Android |
 
- 
+
 ## Contact 📫
-* Email: hyun4025ji@korea.ac.kr
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun-Choi&count_private=true&show_icons=true) 
- 
+* Email: 034179@naver.com
