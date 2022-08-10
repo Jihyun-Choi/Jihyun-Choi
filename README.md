@@ -21,8 +21,9 @@
 | 2021.9.23 ~ 2021.9.27 | [CafeInArt](https://github.com/Jihyun-Choi/CafeInArt)  | Social Problem Solving Idea Contest Award | Backend & Tech Leader |
 | 2021.11.26 ~ 2021.12.5 | [Whiteboard](https://github.com/Jihyun-Choi/Whiteboard) | Academic Management Project for Database Practice | Backend & Frontend |
 | 2022.1.1 ~ Now | [IPARK](https://github.com/Jihyun-Choi/IPARK) | [campus gym access management web server administrator](https://play.google.com/store/apps/details?id=com.ipark_ku) | Backend |
-| 2022.1.21 ~ 2022.5.20 | [TTL](https://github.com/today-they-learned)  | [Collect TIL in one place](https://todaytheylearn.com) | Backend |
+| 2022.1.21 ~ 2022.5.20 | [TTL](https://github.com/today-they-learned/ttl_api)  | [Collect TIL in one place](https://todaytheylearn.com) | Backend |
 | 2022.5.20 ~ 2022.6.22 | [KUsuk](https://github.com/Jihyun-Choi/KUsuk)  | Real-time seat reservation application | Android |
+| 2022.7.20 ~ Now | [peacepiece](https://github.com/today-they-learned/peacepiece_api) | [2022 KBSC](https://www.kbsccoding.com) | Backend |
 
 
 ## Contact 📫
