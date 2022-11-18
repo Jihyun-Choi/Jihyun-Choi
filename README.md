@@ -9,7 +9,7 @@
 ## Experience  
   - **Like-Lion Univ** - Manager & Member *(2020 ~ )*
   - **UDR** - Builder & Manager *(2021 ~ 2022)*
-  - **IPARK** - server administrator *(2022 ~ )*
+  - **IPARK** - server administrator *(2022.1.1 ~ 2022.12.31)*
   - **ETRI** - ICT창의연구소 미래원천연구본부 하계연구연수생 *(2022.7.1 ~ 2022.8.31)*
 
   
