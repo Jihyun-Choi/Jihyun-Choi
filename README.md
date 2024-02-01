@@ -23,7 +23,7 @@
 | 2022.1.1 ~ 2022.12.31 | [IPARK](https://github.com/Jihyun-Choi/IPARK) | campus gym access management web server administrator | Backend |
 | 2022.1.21 ~ 2022.5.20 | [TTL](https://github.com/today-they-learned/ttl_api)  | Collect TIL in one place| Backend |
 | 2022.7.20 ~ 2022.9.15 | [PeacePiece](https://github.com/today-they-learned/peacepiece_api) | Activities for the environment in daily life | Backend |
-| 2023.3.20 ~ | [ASKu](https://github.com/KU-niverse) | [Korea University In-Campus Information Platform](https://asku.wiki/) | AI |
+| 2023.3.20 ~ | [ASKu](https://github.com/KU-niverse) | [Korea University In-Campus Information Platform](https://asku.wiki/) | AI & Backend |
 
 
 ## Contact 📫
